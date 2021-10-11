@@ -13,7 +13,7 @@ environment:
   sdk: '>=2.9.0 <3.0.0'
 
 dependencies:
-  angular: ^6.0.0
+  angular: ^7.0.0
   angular_components: ^1.0.0
   sass_builder: ^2.1.2
   markdown: ^3.0.0
