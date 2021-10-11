@@ -15,7 +15,9 @@ dependencies:
   angular: ^7.0.0
   angular_components: ^1.0.0
   quiver: ^2.0.3
-  sass_builder: ^2.1.2
+  sass_builder:  
+    git:
+      url: https://github.com/meynety/sass_builder.git # Custom because of angular_components
   intl: ^0.16.0
 
 dev_dependencies:
