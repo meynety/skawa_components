@@ -31,7 +31,7 @@ dev_dependencies:
     git:
       url: https://github.com/skawa-universe/pageloader.git
       ref: analyzer-40
-  build_config: ^0.4.1+1
+  build_config: ^1.0.0
   build_test: ^1.0.0
   build_runner: ^1.7.0
   build_web_compilers: ^2.0.0
