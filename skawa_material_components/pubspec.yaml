@@ -21,7 +21,7 @@ dependencies:
   sass_builder:  
     git:
       url: https://github.com/meynety/sass_builder.git # Custom because of angular_components
-  intl: ^0.16.0
+  intl: ^0.17.0
 
 dev_dependencies:
   test: ^1.6.2
