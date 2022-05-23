@@ -17,7 +17,7 @@ dependencies:
     git:
       url: https://github.com/angulardart-community/angular_components.git
       ref: compatible
-  quiver: ^2.0.3
+  quiver: ^3.1.0
   sass_builder:  
     git:
       url: https://github.com/meynety/sass_builder.git # Custom because of angular_components
